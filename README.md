@@ -1,2 +1,2 @@
 # demo
-This is a domo for git &amp; github class
+This is a domo for git &amp; github class.
